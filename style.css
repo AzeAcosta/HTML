@@ -107,3 +107,12 @@ footer img{
 .text-verde{
     color:#39ac39;
 }
+
+.imgcarousel{
+    width: 800px;
+    height: 550px;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    display: grid;
+    place-items: center;
+}
